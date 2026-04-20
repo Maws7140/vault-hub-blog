@@ -2,10 +2,13 @@
 title: Welcome to Vault Hub
 date: 2026-04-06
 summary: Vault Hub is a platform for discovering, sharing, and rating Obsidian resources. Here's what you can find and how to get started.
-tags: [meta, obsidian]
+tags:
+  - meta
+  - obsidian
+modified: 2026-04-20
 ---
 
-Vault Hub is built for the Obsidian community by Maws7140. Whether you're looking for CSS snippets to customize your vault, note templates to jumpstart your workflow, or full vault setups to learn from, it's all here.
+Vault Hub is built for the Obsidian community by Maws7140. The process of finding existing snippets is a little wonky and undeveloped right now so now they’re mostly cataloged here.
 
 ## What You'll Find
 
