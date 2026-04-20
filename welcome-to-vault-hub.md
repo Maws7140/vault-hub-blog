@@ -1,6 +1,6 @@
 ---
 title: Welcome to Vault Hub
-date: 2026-04-06
+date: 2026-04-20T00:00:00
 summary: Vault Hub is a platform for discovering, sharing, and rating Obsidian resources. Here's what you can find and how to get started.
 tags:
   - meta
