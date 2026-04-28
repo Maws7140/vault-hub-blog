@@ -1,5 +1,6 @@
 ---
-modified: 2026-04-21
+modified: 2026-04-27
+date: 2026-04-20T13:16:00
 ---
 I’ve seen that when people make websites like these, they tend to shove a blog in it. I guess it kind of fits, but I mostly needed an extra tab for visual balance, so here we are!
 

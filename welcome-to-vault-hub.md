@@ -5,21 +5,20 @@ summary: Vault Hub is a platform for discovering, sharing, and rating Obsidian r
 tags:
   - meta
   - obsidian
-modified: 2026-04-21
+modified: 2026-04-27
 ---
-
 Vault Hub is built for the Obsidian community by Maws7140. The process of finding existing snippets is a little wonky and undeveloped right now so now they’re mostly cataloged here.
 
 ## What You'll Find
 
-- **CSS Snippets** UI tweaks, layout changes, typography, color schemes, and more
+- **CSS Snippets** UI tweaks, layout changes, typography, color schemes, and more 
 - **Note Templates** Dashboards, trackers, daily notes, project templates, kanban boards
 - **Vault Templates** Full vault setups for students, developers, writers, researchers, gamers, and more
 - **Curated Plugins List** A list of plugins that Obsidian community creators recommend enough to include in their vaults
 
 ## How It Works
 
-Everything on Vault Hub is pulled from GitHub. When you publish a resource, it creates a GitHub repo with the right topic tag. The indexer picks it up and lists it here.
+Everything on Vault Hub is pulled from GitHub. When you publish a resource, it creates a GitHub repo with the right topic tag: obsidian-vault-template, obsidian-css-snippet, obsidian-note-template, obsidian-dashboard. The indexer picks it up and lists it here.
 
 You can discover new tools through categories and trending pages, and star your favorites directly on GitHub.
 
