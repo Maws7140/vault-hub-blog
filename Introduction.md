@@ -1,7 +1,7 @@
 ---
 title: Introduction
 date: 2026-04-20T13:16:00
-summary: Hey, I'm Maws — a data science student, Obsidian enthusiast, and the person behind Vault Hub.
+summary: I'm Maws — a data science student, I use obsidian for everything, and made this site.
 tags:
   - meta
 modified: 2026-04-27
