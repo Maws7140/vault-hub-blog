@@ -4,7 +4,7 @@ date: 2026-04-20T13:16:00
 summary: I'm Maws — a data science student, I use obsidian for everything, and made this site.
 tags:
   - meta
-modified: 2026-04-27
+modified: 2026-05-04
 ---
 I’ve seen that when people make websites like these, they tend to shove a blog in it. I guess it kind of fits, but I mostly needed an extra tab for visual balance, so here we are!
 
