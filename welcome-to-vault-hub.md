@@ -4,8 +4,7 @@ date: 2026-04-20T00:00:00
 summary: Why I built Vault Hub, what you can find here, and the vision for formalizing the Obsidian vault ecosystem.
 tags:
   - meta
-  - obsidian
-  - vision
+  - vault-hub
 modified: 2026-05-04
 ---
 Vault Hub is built for the Obsidian community by Maws7140. The process of finding existing snippets is a little wonky and undeveloped right now so now they're mostly cataloged here.
@@ -25,15 +24,13 @@ You can discover new tools through categories and trending pages, and star your 
 
 ## The Vision
 
-This was originally going to be titled "Why'd I Make This" but as I started thinking it through I realized it was more a vision of what I hope this platform can enable.
+Everything needs an ecosystem to survive. For Obsidian, that ecosystem has traditionally been defined by plugins, software that transforms the simple Markdown editor into genuinely whatever you can think of. But there's an obvious ecosystem that hasn't been fully cataloged or harnessed: the Vault itself.
 
-Everything needs an ecosystem to survive. For Obsidian, that ecosystem has traditionally been defined by plugins, software that transforms the simple Markdown editor into genuinely whatever you can think of with the upper limit being impressive for what is supposed to be a note taking app. Today, we are seeing a new evolution: the intersection of personal knowledge and AI agents. Obsidian is no longer just where you write; it is the "Context Layer" for your LLMs.
+Folder structures, CSS snippets, Dataview queries, plugin configurations, these things come together to create systems that people are customizing for specific purposes every day. The current way of sharing them is fragmented and hard to keep up with. That's what Vault Hub is for.
 
-However, there is an obvious ecosystem that hasn't been fully cataloged or harnessed: the Vault itself. In the sense that when we have a synergy of folder structures, CSS snippets, Dataview queries, and plugin configurations, these things come together to create new systems that are being customized for specific purposes every day.
+We're also entering a new era where Obsidian isn't just where you write; it's the context layer for your LLMs. Other platforms have seen commercial success partly through their template marketplaces, and I believe Obsidian is about to 10x this.
 
-The current system of sharing these things is fragmented and hard to keep up with, thus I want to introduce a sort of protocol for uploading these, including hub.md (a single markdown file with frontmatter metadata that Obsidian reads natively) and appropriate topics and tags: obsidian-vault-template, obsidian-css-snippet, obsidian-note-template, obsidian-dashboard on GitHub to facilitate indexing. Other platforms have achieved commercial success partly through their template marketplaces, and I believe Obsidian is about to 10x this.
-
-By formalizing the Vault Ecosystem, we aren't just helping people take better notes. I think we're solidifying Obsidian's place in this emerging technical environment and of course making it easier to share your rendition of Andrej Karpathy's LLM IDK I'm not that deep lol.
+By formalizing how we share vaults, we aren't just helping people take better notes. We're solidifying Obsidian's place in this whole emerging landscape. And of course making it easier to share your rendition of Andrej Karpathy's LLM IDK I'm not in that deep lol.
 
 ## Get Involved
 
