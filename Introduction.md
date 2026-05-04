@@ -1,6 +1,10 @@
 ---
-modified: 2026-04-27
+title: Introduction
 date: 2026-04-20T13:16:00
+summary: Hey, I'm Maws — a data science student, Obsidian enthusiast, and the person behind Vault Hub.
+tags:
+  - meta
+modified: 2026-04-27
 ---
 I’ve seen that when people make websites like these, they tend to shove a blog in it. I guess it kind of fits, but I mostly needed an extra tab for visual balance, so here we are!
 
